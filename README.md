@@ -1,3 +1,7 @@
+<div>
+  <img align="right" src="https://user-images.githubusercontent.com/94927107/202267396-dac3e09f-9f5c-40ed-b0ac-0beda9582894.jpg" alt="Estudonauta" width="200px">
+</div>
+
 # 📋 Indíce
 
 - [Bem-vindo](#id01)
