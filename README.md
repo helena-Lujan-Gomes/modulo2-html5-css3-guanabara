@@ -123,7 +123,8 @@ Finalização do Módulo 2: 06/10/2022
 
 <br />
 
-- Clique no link para acessar a página do curso: https://www.estudonauta.com/curso/desenvolvimento-web-2020-html5css3-modulo-2-de-5/
+- [Clique no link para acessar a Página do Curso](https://www.estudonauta.com/curso/desenvolvimento-web-2020-html5css3-modulo-2-de-5/)
+- [Clique no link para acessar o Certificado de Conclusão do Módulo 2](https://helena-lujan-gomes.github.io/modulo2-html5-css3-guanabara/Certificado%20Conclus%C3%A3o%20de%20M%C3%B3dulo/index.html)
 
 <br />
 
